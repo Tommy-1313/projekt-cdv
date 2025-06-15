@@ -3,8 +3,6 @@
 Projekt inżynierski realizowany w ramach studiów podyplomowych na kierunku - Akademia Programowania w Pythonie, Collegium Da Vinci.  
 Aplikacja desktopowa pozwala na pobieranie, filtrowanie, analizowanie i wizualizację danych o jakości powietrza pochodzących z publicznego API GIOŚ.
 
-Autor: Tomek Łukasiewicz
-
 ---
 
 ## Funkcjonalności
