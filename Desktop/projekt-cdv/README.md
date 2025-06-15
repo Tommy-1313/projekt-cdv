@@ -35,7 +35,7 @@ Autor: Tomek Łukasiewicz
 1. Sklonuj repozytorium:
 
 """
-git clone https://github.com/TwojeUzytkownik/projekt-cdv.git
+git clone https://github.com/Tommy-1313/projekt-cdv.git
 cd projekt-cdv
 
 2. Utwórz środowisko wirtualne:
